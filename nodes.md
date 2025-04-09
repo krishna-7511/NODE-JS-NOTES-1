@@ -19,7 +19,17 @@ This command creates a file named app.js and writes console.log("Hello, Node.js!
 
 to run it on cmd: node filename(app.js)
 
-in console enter process.cwd();   current working directory
+enter node  in cli
+
+enter pocess
+
+enter process.version
+
+enter process.release
+
+enter process.cwd(); current working directory
+
+enter process.cwd();   current working directory
 
 ./ means same directory
 
@@ -55,13 +65,24 @@ in nodejs file enter node app.js hello bye
 again   C:\NODE JS NOTES 1>node app.js hello bye krishna apnacollege 1
 
 
-to install npm on :npm install figlet
+to install npm on :npm install figlet  
+
+Npm official site : https://www.npmjs.com/
+
+dir Lists all files in windows for mac ls command
 
 suppose if node modules have been deleted and we will retrive with the help of pacakge.json
 
-
 simply type: npm install (node modules have been installed automtically)
+
+//or follow this approach
+
+suppose node modules have been deleted, go to the package.son check which dependencies are needed
+
+after that cmd enter : npm install, in which folder do you want to install
 
 
 
 npm init :package installed on MyProject
+
+look at last one import modules two types
